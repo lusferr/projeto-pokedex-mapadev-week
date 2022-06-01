@@ -1,0 +1,38 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-image: url('https://wallup.net/wp-content/uploads/2016/05/24/143432-nature-Pokemon.jpg');
+    background-attachment: fixed; 
+    background-size: cover;
+}
+
+.logo{
+    width: 200px;
+    height: 100px;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
+
+.card-img{
+    width: 50px;
+}
+
+.icon{
+    width: 30px;
+    
+}
+
+.pokedex{
+    display: flex;
+    gap: 30px;
+    padding: 30px 0;
+}
